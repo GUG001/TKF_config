@@ -24,3 +24,5 @@ Reshade官网 https://reshade.me/
  ##该文件来自b站UP桀桀大魔王Jorge
  https://space.bilibili.com/2452362
  想学怎么调试滤镜可以看他的视频或加他的群QQ:793797954
+ 滤镜颠倒解决
+ https://www.bilibili.com/video/BV1u14y177vf
