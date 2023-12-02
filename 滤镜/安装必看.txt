@@ -2,7 +2,7 @@
 Reshade民间汉化文件 https://gitee.com/jiangyi0923/re-shade4.9.1_cn/releases/tag/5.8.0.1
 Reshade官网 https://reshade.me/
 2, 安装步骤
- 1.下载群内【reshade主体】解压备用
+ 1.下载 https://www.123pan.com/s/4zZVVv-Yq3hh.html
  2.打开【ReShadeX.X.X 官方完整版安装文件.exe】 弹出【Warning】点确定 
  3.右下角点击【Browse】 选择你游戏主程序（就是能直接打开游戏的程序（举例：【游戏名.exe】))选启动器有几率目录错误）选择完后点击【Next】
  4.百度你游戏使用的图形接口（大部分主流游戏是DX10/11/12） 勾选对应的接口 选择完后点击【Next】
@@ -21,3 +21,4 @@ Reshade官网 https://reshade.me/
  15.重新打开游戏检查是否报错 按下键盘【Home】打开菜单 检查插件是否正常使用（有部分无法编译属于正常版本错误）
  16.在【主页】右下角 取消性能模式 等待加载 接着就会显示插件微调项 
  17.右上角点击【新建预设】 至此安装步骤结束
+ ##该文件来自b站UP桀桀大魔王Jorge
